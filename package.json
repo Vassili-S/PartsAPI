@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "spare-parts.api",
+  "version": "1.0.0",
+  "description": "spare parts",
+  "main": "spare_parts.api.js",
+  "scripts": {
+    "test": "sus"
+  },
+  "author": "Riki Liir",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
